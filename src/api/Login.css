@@ -1,0 +1,27 @@
+
+
+.a {
+    display: flex;
+    justify-content: space-around;
+}
+.b {
+    display: flex;
+    justify-content: space-between;
+   
+}
+.c{
+    background-color: black;
+    color:white;
+    
+}
+.d{
+    color:white;
+}
+.e{
+    font-size: 70px;
+    text-align: center;
+}
+.f{
+ 
+    text-align: center;
+}
